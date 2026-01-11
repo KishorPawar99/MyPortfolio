@@ -4,27 +4,27 @@
     "title": "Digital Calculator",
     "language": "HTML, CSS, JavaScript",
     "description": "This is a simple and modern calculator application built for basic arithmetic operations. It features a clean UI with rounded buttons and a digital display.",
-    "image": "/public/projects/project1.png"
+    "image": "/public/image/project1.png"
   },
   {
     "id": 2,
     "title": "Weather Web App",
     "language": "HTML, CSS, JavaScript",
     "description": "This is a clean and modern Weather Application built using JavaScript. It allows users to search for any city and view real-time weather details.",
-    "image": "/public/projects/project2.png"
+    "image": "/public/image/project2.png"
   },
   {
     "id": 3,
     "title": "TO-DO List",
     "language": "HTML, CSS, JavaScript",
     "description": "This is a simple and user-friendly To-Do List application built using JavaScript. It allows users to manage daily tasks efficiently with an intuitive interface.",
-    "image": "/public/projects/project3.png"
+    "image": "/public/image/project3.png"
   },
   {
     "id": 4,
     "title": "My Portfolio",
     "language": "HTML, CSS, JavaScript, React, Tailwind CSS",
     "description": "This is a modern and responsive personal portfolio website designed to showcase professional skills, projects, and personal information.",
-    "image": "/public/projects/project4.png"
+    "image": "/public/image/project4.png"
   }
 ]
