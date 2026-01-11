@@ -1,0 +1,38 @@
+[
+
+  {
+    "id": 1,
+    "name": "HTML",
+    "icon": "FaHtml5",
+    "pack": "fa",
+    "level": 90
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "icon": "FaCss3Alt",
+    "pack": "fa",
+    "level": 85
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "icon": "FaJs",
+    "pack": "fa",
+    "level": 75
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "icon": "FaReact",
+    "pack": "fa",
+    "level": 70
+  },
+  {
+    "id": 5,
+    "name": "Tailwind",
+    "icon": "RiTailwindCssFill",
+    "pack": "ri",
+    "level": 75
+  }
+]

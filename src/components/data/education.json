@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "degree": "MCA (Master Of Computer Application)",
+    "college": "Dr. D Y Patil Instiute of Managment and Reaserch, Pimpri, Pune",
+    "univercity": "Savitribai Phule Pune Univercity",
+    "year": "2019-2022"
+  },
+  {
+    "id": 2,
+    "degree": "BCA (Bachlore Of Computer Application)",
+    "college": "Khandesh College Education Society's Moolji Jaitha College, Jalgaon",
+    "univercity": "Kavayitri Bahinabai Chaudhari North Maharashtra University",
+    "year": "2016-2019"
+  },
+  {
+    "id": 3,
+    "degree": "HSC (Higher Secondary Certificate)",
+    "college": "Arts, Commerce and Science College, Dharangaon, Jalgaon",
+    "univercity": "Maharashtra State Board of Secondary and Higher Secondary Education",
+    "year": "2014-2016"
+  },
+  {
+    "id": 4,
+    "degree": "SSC (Secondary School Certificate)",
+    "college": "P R Highschool, Dharangaon, Jalgaon",
+    "univercity": "Maharashtra State Board of Secondary and Higher Secondary Education",
+    "year": "2014"
+  }
+]
